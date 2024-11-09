@@ -1,0 +1,52 @@
+[
+    {
+        "text": "list",
+        "icon": "format-list-bulleted"
+    },
+    {
+        "text": "Andrew",
+        "icon": "file-upload"
+    },
+    {
+        "text": "Peter",
+        "icon": "logout"
+    },
+    {
+        "text": "James",
+        "icon": "logout"
+    },
+    {
+        "text": "Kaiser",
+        "icon": "logout"
+    },
+    {
+        "text": "Wilfred",
+        "icon": "logout"
+    },
+    {
+        "text": "Christine",
+        "icon": "file-upload"
+    },
+    {
+        "text": "Eucaphet",
+        "icon": "logout"
+    },
+    {
+        "text": "Mary",
+        "icon": "logout"
+    },
+    {
+        "text": "Charles",
+        "icon": "logout"
+    },
+    {
+        "text": "Norah",
+        "icon": "logout"
+    },
+    {
+        "text": "James",
+        "age": "20",
+        "city": "Kisii",
+        "icon": "logout"
+    }
+]

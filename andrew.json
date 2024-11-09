@@ -1,0 +1,18 @@
+[
+    {
+        "text": "list",
+        "icon": "format-list-bulleted"
+    },
+    {
+        "text": "Edward",
+        "age": "17",
+        "city": "Nairobi",
+        "icon": "logout"
+    },
+    {
+        "text": "Samson",
+        "age": "15",
+        "city": "Mombasa",
+        "icon": "logout"
+    }
+]
